@@ -42,13 +42,14 @@ const About = () => {
           </h3>
           {/* About Me Paragraph */}
           <p className="text-base sm:text-lg md:text-lg text-gray-400 mb-10 mt-8 leading-relaxed">
-            Final-year B.Tech student in AI & Data Science with strong proficiency in MERN stack, frontend development, and a
-            growing interest in machine learning. Actively building real-world projects and continuously improving through
-            certifications and coding platforms.
+            Web Developer and final-year AI & Data Science student with hands-on experience in building fast, responsive, and scalable
+            web applications. Skilled in the MERN stack with a strong focus on writing clean, maintainable code and creating smooth
+            user experiences. A collaborative team player with a problem-solving mindset, adaptable to new technologies, and eager to
+            contribute to impactful, real-world projects.
           </p>
           {/* Resume Button */}
           <a
-            href="https://drive.google.com/file/d/1RtNjUAZogN5Pum9j9t0BlH-_aUpShTIv/view?usp=sharing"
+            href="https://drive.google.com/file/d/1pSLykkPgMJr18pJGV83z1EJth1eVKoCM/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block text-white py-3 px-8 rounded-full mt-5 text-lg font-bold transition duration-300 transform hover:scale-105"
