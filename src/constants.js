@@ -156,8 +156,8 @@ export const projects = [
       "An intelligent full-stack platform for discovering, organizing, and managing events. Leverages AI-powered recommendations for a seamless, data-driven experience from event creation to real-time engagement tracking.",
     image: eventureLogo,
     tags: ["React JS", "Node.js", "MongoDB", "AI", "Express.js", "Tailwind CSS" ,"Framer Motion","bcryptjs" , "JWT"],
-    github: "",
-    webapp: "",
+    github: "https://github.com/harshnagori/Eventure-AI",
+    webapp: "https://eventure-ai.vercel.app/",
   },
     {
     "id": 1,
